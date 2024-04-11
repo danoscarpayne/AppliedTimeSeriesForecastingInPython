@@ -22,3 +22,12 @@ lightning_logs/version_8/events.out.tfevents.1712836907.thinkingfacemac.lan.3233
 lightning_logs/version_8/hparams.yaml
 lightning_logs/version_9/events.out.tfevents.1712836908.thinkingfacemac.lan.32332.3
 lightning_logs/version_9/hparams.yaml
+data/timegpt_api_key.txt
+lightning_logs/version_12/events.out.tfevents.1712840270.thinkingfacemac.lan.37117.0
+lightning_logs/version_12/hparams.yaml
+lightning_logs/version_13/events.out.tfevents.1712840275.thinkingfacemac.lan.37117.1
+lightning_logs/version_13/hparams.yaml
+lightning_logs/version_14/events.out.tfevents.1712840275.thinkingfacemac.lan.37117.2
+lightning_logs/version_14/hparams.yaml
+lightning_logs/version_15/events.out.tfevents.1712840281.thinkingfacemac.lan.37117.3
+lightning_logs/version_15/hparams.yaml
