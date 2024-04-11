@@ -10,3 +10,15 @@ lightning_logs/version_4/events.out.tfevents.1712768339.thinkingfacemac.lan.3521
 lightning_logs/version_4/hparams.yaml
 lightning_logs/version_5/events.out.tfevents.1712768532.thinkingfacemac.lan.35210.5
 lightning_logs/version_5/hparams.yaml
+lightning_logs/version_10/events.out.tfevents.1712836908.thinkingfacemac.lan.32332.4
+lightning_logs/version_10/hparams.yaml
+lightning_logs/version_11/events.out.tfevents.1712836959.thinkingfacemac.lan.32332.5
+lightning_logs/version_11/hparams.yaml
+lightning_logs/version_6/events.out.tfevents.1712836906.thinkingfacemac.lan.32332.0
+lightning_logs/version_6/hparams.yaml
+lightning_logs/version_7/events.out.tfevents.1712836907.thinkingfacemac.lan.32332.1
+lightning_logs/version_7/hparams.yaml
+lightning_logs/version_8/events.out.tfevents.1712836907.thinkingfacemac.lan.32332.2
+lightning_logs/version_8/hparams.yaml
+lightning_logs/version_9/events.out.tfevents.1712836908.thinkingfacemac.lan.32332.3
+lightning_logs/version_9/hparams.yaml
